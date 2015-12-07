@@ -19,3 +19,4 @@ Git Workflow with Waffle Walkthrough
   * visit [repo page](https://github.com/samover/soSafe) and create pull request
   * PR message should include: `close #4`, the number being the issue number
   * merge PR
+
