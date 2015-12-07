@@ -6,7 +6,7 @@ Git Workflow with Waffle Walkthrough
   * pull remote development: `git pull origin development`
 
 2. Create a ticket
-  * visit [repo on waffle](https://waffle.io/samover/are_u_safe)
+  * visit [repo on waffle](https://waffle.io/samover/soSafe)
   * add issue and note the issue number
 
 3. Move ticket to production:
@@ -16,6 +16,6 @@ Git Workflow with Waffle Walkthrough
 
 4. Merge feature with development branch:
   * when the feature is finished (please have awesome, readable commit messages)
-  * visit [repo page](https://github.com/samover/are_u_safe) and create pull request
+  * visit [repo page](https://github.com/samover/soSafe) and create pull request
   * PR message should include: `close #4`, the number being the issue number
   * merge PR
